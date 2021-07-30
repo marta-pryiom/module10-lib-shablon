@@ -1,0 +1,1 @@
+# module10-lib-shablon
